@@ -1,4 +1,7 @@
-# InterviewPrepKit
+# Interview Preparation Kit
+
+
+![0_zuhXdNAIUoxEem4--300x200](https://user-images.githubusercontent.com/101191826/196042218-8ab182a8-4141-4352-aabd-d896c5d91fa8.png)
 
 *145 Questions*
 
