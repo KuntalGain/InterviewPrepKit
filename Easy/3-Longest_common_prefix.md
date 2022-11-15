@@ -1,3 +1,4 @@
+```
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& s) {
@@ -18,3 +19,4 @@ public:
         return s[0].substr(0,ans);
     }
 };
+``` 
